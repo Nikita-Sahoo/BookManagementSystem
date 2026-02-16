@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import { bookDatas } from "../utils/bookDatas";
 
 const initialState = {
-  books: dummyBooks,
+  books: bookDatas,
 };
 
 
