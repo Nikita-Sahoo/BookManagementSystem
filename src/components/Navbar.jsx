@@ -7,8 +7,8 @@ function Navbar() {
 
       <div className="space-x-4">
         <Link to="/">Home</Link>
-        <Link to="#">Browse Books</Link>
-        <Link to="#">Add Book</Link>
+        <Link to="/books">Browse Books</Link>
+        <Link to="/add-book">Add Book</Link>
       </div>
     </nav>
   );

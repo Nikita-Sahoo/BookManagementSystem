@@ -5,6 +5,7 @@ export const bookDatas = [
     "author": "Robert C. Martin",
     "publishedDate": "2008-08-01",
     "pages": 464,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
     "description": "A handbook of agile software craftsmanship and clean coding practices."
   },
@@ -14,6 +15,7 @@ export const bookDatas = [
     "author": "Andrew Hunt, David Thomas",
     "publishedDate": "1999-10-30",
     "pages": 352,
+    "category": "Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg",
     "description": "Essential tips and philosophies for becoming a better programmer."
   },
@@ -23,6 +25,7 @@ export const bookDatas = [
     "author": "James Clear",
     "publishedDate": "2018-10-16",
     "pages": 320,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     "description": "An actionable guide to building good habits and breaking bad ones."
   },
@@ -32,6 +35,7 @@ export const bookDatas = [
     "author": "Cal Newport",
     "publishedDate": "2016-01-05",
     "pages": 304,
+    "category": "Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     "description": "Rules for focused success in a distracted world."
   },
@@ -41,6 +45,7 @@ export const bookDatas = [
     "author": "Paulo Coelho",
     "publishedDate": "1988-01-01",
     "pages": 208,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
     "description": "A philosophical story about destiny and following dreams."
   },
@@ -50,6 +55,7 @@ export const bookDatas = [
     "author": "Robert T. Kiyosaki",
     "publishedDate": "1997-04-01",
     "pages": 336,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
     "description": "Lessons on money, investing, and financial independence."
   },
@@ -59,6 +65,7 @@ export const bookDatas = [
     "author": "Napoleon Hill",
     "publishedDate": "1937-01-01",
     "pages": 238,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg",
     "description": "A classic self-help book on success and mindset."
   },
@@ -69,6 +76,7 @@ export const bookDatas = [
     "author": "C.S. Lewis",
     "publishedDate": "1956-10-16",
     "pages": 767,
+    "category": "Sci-Fi",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780066238500-L.jpg",
     "description": "A classic fantasy series filled with magic and adventure."
   },
@@ -79,6 +87,7 @@ export const bookDatas = [
     "author": "Marijn Haverbeke",
     "publishedDate": "2018-12-04",
     "pages": 472,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781593279509-L.jpg",
     "description": "A modern introduction to JavaScript programming."
   },
@@ -88,6 +97,7 @@ export const bookDatas = [
     "author": "Morgan Housel",
     "publishedDate": "2020-09-08",
     "pages": 256,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
     "description": "Timeless lessons on wealth, greed, and happiness."
   },
@@ -98,6 +108,7 @@ export const bookDatas = [
     "author": "Thomas H. Cormen",
     "publishedDate": "2009-07-31",
     "pages": 1312,
+    "category": "Sci-Fi",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780262033848-L.jpg",
     "description": "Comprehensive guide to modern algorithms."
   },
@@ -107,6 +118,7 @@ export const bookDatas = [
     "author": "J.K. Rowling",
     "publishedDate": "1997-06-26",
     "pages": 309,
+    "category": "Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780439708180-L.jpg",
     "description": "The beginning of Harry Potter’s magical journey."
   },
@@ -116,6 +128,7 @@ export const bookDatas = [
     "author": "J.R.R. Tolkien",
     "publishedDate": "1937-09-21",
     "pages": 310,
+    "category": "Sci-Fi",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
     "description": "A fantasy adventure preceding The Lord of the Rings."
   },
@@ -125,6 +138,7 @@ export const bookDatas = [
     "author": "George Orwell",
     "publishedDate": "1949-06-08",
     "pages": 328,
+    "category": "Non-Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
     "description": "A dystopian novel about surveillance and control."
   },
@@ -134,6 +148,7 @@ export const bookDatas = [
     "author": "Harper Lee",
     "publishedDate": "1960-07-11",
     "pages": 281,
+    "category": "Fiction",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
     "description": "A novel about justice and morality in the American South."
   },
@@ -143,6 +158,7 @@ export const bookDatas = [
   "author": "J.R.R. Tolkien",
   "publishedDate": "1954-07-29",
   "pages": 1178,
+  "category": "Fiction",
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780544003415-L.jpg",
   "description": "An epic high-fantasy novel about the battle between good and evil in Middle-earth."
 },
@@ -152,6 +168,7 @@ export const bookDatas = [
   "author": "J.D. Salinger",
   "publishedDate": "1951-07-16",
   "pages": 277,
+  "category": "Non-Fiction",
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
   "description": "A coming-of-age story about teenage rebellion and identity."
 },
@@ -161,6 +178,7 @@ export const bookDatas = [
   "author": "F. Scott Fitzgerald",
   "publishedDate": "1925-04-10",
   "pages": 180,
+  "category": "Sci-Fi",
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
   "description": "A critique of the American Dream set in the Jazz Age."
 },
@@ -170,6 +188,7 @@ export const bookDatas = [
   "author": "Eric Ries",
   "publishedDate": "2011-09-13",
   "pages": 336,
+  "category": "Non-Fiction",
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
   "description": "A methodology for building successful startups through innovation."
 },
@@ -179,6 +198,7 @@ export const bookDatas = [
   "author": "Peter Thiel",
   "publishedDate": "2014-09-16",
   "pages": 224,
+  "category": "Sci-Fi",
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
   "description": "Insights on how to build the future by creating something new."
 // },
@@ -188,6 +208,7 @@ export const bookDatas = [
 //   "author": "Yuval Noah Harari",
 //   "publishedDate": "2011-02-04",
 //   "pages": 498,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
 //   "description": "A brief history of humankind from ancient times to the present."
 // },
@@ -197,6 +218,7 @@ export const bookDatas = [
 //   "author": "Yuval Noah Harari",
 //   "publishedDate": "2015-09-08",
 //   "pages": 449,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg",
 //   "description": "A look into the future of humanity driven by technology."
 // },
@@ -206,6 +228,7 @@ export const bookDatas = [
 //   "author": "Eckhart Tolle",
 //   "publishedDate": "1997-01-01",
 //   "pages": 236,
+//  "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9781577314806-L.jpg",
 //   "description": "A guide to spiritual enlightenment through mindfulness."
 // },
@@ -215,6 +238,7 @@ export const bookDatas = [
 //   "author": "Héctor García, Francesc Miralles",
 //   "publishedDate": "2016-04-27",
 //   "pages": 208,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780143130727-L.jpg",
 //   "description": "Explores the Japanese concept of finding purpose in life."
 // },
@@ -224,6 +248,7 @@ export const bookDatas = [
 //   "author": "Viktor E. Frankl",
 //   "publishedDate": "1946-01-01",
 //   "pages": 184,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780807014271-L.jpg",
 //   "description": "A memoir on finding meaning through suffering and hope."
 // },
@@ -233,6 +258,7 @@ export const bookDatas = [
 //   "author": "Mark Manson",
 //   "publishedDate": "2016-09-13",
 //   "pages": 224,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
 //   "description": "A counterintuitive approach to living a good life."
 // },
@@ -242,6 +268,7 @@ export const bookDatas = [
 //   "author": "David Goggins",
 //   "publishedDate": "2018-11-15",
 //   "pages": 364,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9781544512273-L.jpg",
 //   "description": "A story of mental toughness and overcoming adversity."
 // },
@@ -251,6 +278,7 @@ export const bookDatas = [
 //   "author": "Timothy Ferriss",
 //   "publishedDate": "2007-04-24",
 //   "pages": 416,
+//   "category": "Non-Fiction", 
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307465351-L.jpg",
 //   "description": "A blueprint for lifestyle design and financial freedom."
 // },
@@ -260,6 +288,7 @@ export const bookDatas = [
 //   "author": "Daniel Kahneman",
 //   "publishedDate": "2011-10-25",
 //   "pages": 512,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
 //   "description": "Explores the two systems that drive human thinking."
 // },
@@ -269,6 +298,7 @@ export const bookDatas = [
 //   "author": "Benjamin Graham",
 //   "publishedDate": "1949-01-01",
 //   "pages": 640,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780060555665-L.jpg",
 //   "description": "A classic guide to value investing and financial discipline."
 // },
@@ -278,6 +308,7 @@ export const bookDatas = [
 //   "author": "Cormac McCarthy",
 //   "publishedDate": "2006-09-26",
 //   "pages": 287,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307387899-L.jpg",
 //   "description": "A post-apocalyptic journey of survival and love."
 // },
@@ -287,6 +318,7 @@ export const bookDatas = [
 //   "author": "Markus Zusak",
 //   "publishedDate": "2005-03-14",
 //   "pages": 584,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780375842207-L.jpg",
 //   "description": "A powerful story set in Nazi Germany narrated by Death."
 // },
@@ -296,6 +328,7 @@ export const bookDatas = [
 //   "author": "George R.R. Martin",
 //   "publishedDate": "1996-08-06",
 //   "pages": 694,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780553593716-L.jpg",
 //   "description": "The first book in the epic fantasy series A Song of Ice and Fire."
 // },
@@ -305,6 +338,7 @@ export const bookDatas = [
 //   "author": "John Green",
 //   "publishedDate": "2012-01-10",
 //   "pages": 313,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780525478812-L.jpg",
 //   "description": "A touching love story between two teenagers with cancer."
 // },
@@ -314,6 +348,7 @@ export const bookDatas = [
 //   "author": "Paula Hawkins",
 //   "publishedDate": "2015-01-13",
 //   "pages": 395,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9781594634024-L.jpg",
 //   "description": "A psychological thriller full of suspense and mystery."
 // },
@@ -323,6 +358,7 @@ export const bookDatas = [
 //   "author": "Dan Brown",
 //   "publishedDate": "2003-04-01",
 //   "pages": 689,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg",
 //   "description": "A mystery thriller involving secret societies and hidden codes."
 // },
@@ -332,6 +368,7 @@ export const bookDatas = [
 //   "author": "Dan Brown",
 //   "publishedDate": "2000-05-01",
 //   "pages": 616,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780743493468-L.jpg",
 //   "description": "A fast-paced thriller combining science, religion, and symbolism."
 // },
@@ -341,6 +378,7 @@ export const bookDatas = [
 //   "author": "Khaled Hosseini",
 //   "publishedDate": "2003-05-29",
 //   "pages": 371,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9781594631931-L.jpg",
 //   "description": "A deeply emotional story of friendship, betrayal, and redemption."
 // },
@@ -350,6 +388,7 @@ export const bookDatas = [
 //   "author": "Yann Martel",
 //   "publishedDate": "2001-09-11",
 //   "pages": 319,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780156027328-L.jpg",
 //   "description": "A philosophical adventure about survival and belief."
 // },
@@ -359,6 +398,7 @@ export const bookDatas = [
 //   "author": "Stephen King",
 //   "publishedDate": "1977-01-28",
 //   "pages": 447,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307743657-L.jpg",
 //   "description": "A horror classic set in an isolated haunted hotel."
 // },
@@ -368,6 +408,7 @@ export const bookDatas = [
 //   "author": "Frank Herbert",
 //   "publishedDate": "1965-08-01",
 //   "pages": 688,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
 //   "description": "A science fiction epic about power, politics, and destiny."
 // },
@@ -377,6 +418,7 @@ export const bookDatas = [
 //   "author": "Ray Bradbury",
 //   "publishedDate": "1953-10-19",
 //   "pages": 194,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg",
 //   "description": "A dystopian novel where books are banned and burned."
 // },
@@ -386,6 +428,7 @@ export const bookDatas = [
 //   "author": "Margaret Atwood",
 //   "publishedDate": "1985-01-01",
 //   "pages": 311,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780385490818-L.jpg",
 //   "description": "A chilling dystopian story about oppression and control."
 // },
@@ -395,6 +438,7 @@ export const bookDatas = [
 //   "author": "Matt Haig",
 //   "publishedDate": "2020-09-29",
 //   "pages": 304,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
 //   "description": "A novel about choices, regrets, and alternate lives."
 // },
@@ -404,6 +448,7 @@ export const bookDatas = [
 //   "author": "Tara Westover",
 //   "publishedDate": "2018-02-20",
 //   "pages": 352,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
 //   "description": "A memoir about growing up and the power of education."
 // },
@@ -413,6 +458,7 @@ export const bookDatas = [
 //   "author": "Andy Weir",
 //   "publishedDate": "2011-02-11",
 //   "pages": 369,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780804139021-L.jpg",
 //   "description": "A science-driven survival story set on Mars."
 // },
@@ -422,6 +468,7 @@ export const bookDatas = [
 //   "author": "Suzanne Collins",
 //   "publishedDate": "2008-09-14",
 //   "pages": 374,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780439023528-L.jpg",
 //   "description": "A dystopian novel about survival and rebellion."
 // },
@@ -431,6 +478,7 @@ export const bookDatas = [
 //   "author": "Gillian Flynn",
 //   "publishedDate": "2012-06-05",
 //   "pages": 432,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg",
 //   "description": "A dark psychological thriller about a missing wife."
 // },
@@ -440,6 +488,7 @@ export const bookDatas = [
 //   "author": "Lois Lowry",
 //   "publishedDate": "1993-04-26",
 //   "pages": 240,
+//   "category": "Non-Fiction",
 //   "coverImage": "https://covers.openlibrary.org/b/isbn/9780544336261-L.jpg",
 //   "description": "A dystopian story about a society without choice or emotion."
 // },
@@ -449,6 +498,7 @@ export const bookDatas = [
 //     "author": "Kyle Simpson",
 //     "publishedDate": "2015-12-27",
 //     "pages": 278,
+//   "category": "Non-Fiction",
 //     "coverImage": "https://covers.openlibrary.org/b/isbn/9781491904244-L.jpg",
 //     "description": "A deep dive into JavaScript core mechanisms."
   }
