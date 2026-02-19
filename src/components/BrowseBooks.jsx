@@ -38,7 +38,7 @@ function BrowseBooks() {
             <img
               src={book.coverImage}
               alt={book.title}
-              className="h-60 w-full object-cover rounded"
+              className="h-60 w-full  rounded"
             />
 
             <h3 className="font-bold text-lg mt-3">{book.title}</h3>
