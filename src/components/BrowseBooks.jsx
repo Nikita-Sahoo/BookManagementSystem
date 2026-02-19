@@ -43,12 +43,16 @@ function BrowseBooks() {
 
             <h3 className="font-bold text-lg mt-3">{book.title}</h3>
             <p className="text-gray-600">{book.author}</p>
+            <p className="text-sm text-gray-500">
+              {book.category} 
+            </p>
             <p className="text-yellow-500 font-semibold mt-1">
               ⭐ {book.rating}
             </p>
             <p className="text-sm text-gray-500">
               {book.pages} pages • {book.publishedDate}
             </p>
+             
 
             <Link
               to={`/book/${book.id}`}
