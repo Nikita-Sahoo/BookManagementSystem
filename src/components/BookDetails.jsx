@@ -57,6 +57,11 @@ function BookDetails() {
             <strong>Pages:</strong> {book.pages}
           </p>
 
+          <p className="text-yellow-500 font-semibold mt-1">
+            <strong className="text-black">Rating:</strong>
+            ⭐ {book.rating}
+          </p>
+
           <p>
             <strong>Description:</strong>
           </p>

@@ -6,6 +6,7 @@ export const bookDatas = [
     "publishedDate": "2008-08-01",
     "pages": 464,
     "category": "Non-Fiction",
+    "rating": 4.8,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
     "description": "A handbook of agile software craftsmanship and clean coding practices."
   },
@@ -16,6 +17,7 @@ export const bookDatas = [
     "publishedDate": "1999-10-30",
     "pages": 352,
     "category": "Fiction",
+    "rating": 4.3,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg",
     "description": "Essential tips and philosophies for becoming a better programmer."
   },
@@ -26,6 +28,7 @@ export const bookDatas = [
     "publishedDate": "2018-10-16",
     "pages": 320,
     "category": "Non-Fiction",
+    "rating": 4.7,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     "description": "An actionable guide to building good habits and breaking bad ones."
   },
@@ -36,6 +39,7 @@ export const bookDatas = [
     "publishedDate": "2016-01-05",
     "pages": 304,
     "category": "Fiction",
+    "rating": 4.1,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     "description": "Rules for focused success in a distracted world."
   },
@@ -46,6 +50,7 @@ export const bookDatas = [
     "publishedDate": "1988-01-01",
     "pages": 208,
     "category": "Non-Fiction",
+    "rating": 4.2,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
     "description": "A philosophical story about destiny and following dreams."
   },
@@ -56,6 +61,7 @@ export const bookDatas = [
     "publishedDate": "1997-04-01",
     "pages": 336,
     "category": "Non-Fiction",
+    "rating": 4.3,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
     "description": "Lessons on money, investing, and financial independence."
   },
@@ -66,6 +72,7 @@ export const bookDatas = [
     "publishedDate": "1937-01-01",
     "pages": 238,
     "category": "Non-Fiction",
+    "rating": 4.7,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg",
     "description": "A classic self-help book on success and mindset."
   },
@@ -77,6 +84,7 @@ export const bookDatas = [
     "publishedDate": "1956-10-16",
     "pages": 767,
     "category": "Sci-Fi",
+    "rating": 4.6,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780066238500-L.jpg",
     "description": "A classic fantasy series filled with magic and adventure."
   },
@@ -88,6 +96,7 @@ export const bookDatas = [
     "publishedDate": "2018-12-04",
     "pages": 472,
     "category": "Non-Fiction",
+    "rating": 4,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781593279509-L.jpg",
     "description": "A modern introduction to JavaScript programming."
   },
@@ -98,6 +107,7 @@ export const bookDatas = [
     "publishedDate": "2020-09-08",
     "pages": 256,
     "category": "Non-Fiction",
+    "rating": 3.8,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
     "description": "Timeless lessons on wealth, greed, and happiness."
   },
@@ -109,6 +119,7 @@ export const bookDatas = [
     "publishedDate": "2009-07-31",
     "pages": 1312,
     "category": "Sci-Fi",
+    "rating": 4.1,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780262033848-L.jpg",
     "description": "Comprehensive guide to modern algorithms."
   },
@@ -119,6 +130,7 @@ export const bookDatas = [
     "publishedDate": "1997-06-26",
     "pages": 309,
     "category": "Fiction",
+    "rating": 4.2,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780439708180-L.jpg",
     "description": "The beginning of Harry Potter’s magical journey."
   },
@@ -129,6 +141,7 @@ export const bookDatas = [
     "publishedDate": "1937-09-21",
     "pages": 310,
     "category": "Sci-Fi",
+    "rating": 4.3,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
     "description": "A fantasy adventure preceding The Lord of the Rings."
   },
@@ -139,6 +152,7 @@ export const bookDatas = [
     "publishedDate": "1949-06-08",
     "pages": 328,
     "category": "Non-Fiction",
+    "rating": 4.5,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
     "description": "A dystopian novel about surveillance and control."
   },
@@ -149,6 +163,7 @@ export const bookDatas = [
     "publishedDate": "1960-07-11",
     "pages": 281,
     "category": "Fiction",
+    "rating": 4.3,
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
     "description": "A novel about justice and morality in the American South."
   },
@@ -159,6 +174,7 @@ export const bookDatas = [
   "publishedDate": "1954-07-29",
   "pages": 1178,
   "category": "Fiction",
+  "rating": 4.2,
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780544003415-L.jpg",
   "description": "An epic high-fantasy novel about the battle between good and evil in Middle-earth."
 },
@@ -169,6 +185,7 @@ export const bookDatas = [
   "publishedDate": "1951-07-16",
   "pages": 277,
   "category": "Non-Fiction",
+  "rating": 4.5,
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
   "description": "A coming-of-age story about teenage rebellion and identity."
 },
@@ -179,6 +196,7 @@ export const bookDatas = [
   "publishedDate": "1925-04-10",
   "pages": 180,
   "category": "Sci-Fi",
+  "rating": 4.5,
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
   "description": "A critique of the American Dream set in the Jazz Age."
 },
@@ -189,6 +207,7 @@ export const bookDatas = [
   "publishedDate": "2011-09-13",
   "pages": 336,
   "category": "Non-Fiction",
+  "rating": 4.1,
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
   "description": "A methodology for building successful startups through innovation."
 },
@@ -199,6 +218,7 @@ export const bookDatas = [
   "publishedDate": "2014-09-16",
   "pages": 224,
   "category": "Sci-Fi",
+  "rating": 4.4,
   "coverImage": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
   "description": "Insights on how to build the future by creating something new."
 // },
